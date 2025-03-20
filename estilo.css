@@ -98,3 +98,15 @@ div#corpo{
     border-radius: 10px;  
 
 }
+
+div#img{
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px; 
+    width: 50px; 
+    height: 50px;
+    
+
+}
