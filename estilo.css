@@ -78,3 +78,23 @@ div#menu >ul > li:hover{
     display: inline-block;
 
 }
+
+div#menu >ul > li > a{
+    text-decoration: none;
+    color: black;
+}
+
+div#menu >ul > li > a:hover{
+    color: red;
+}
+
+div#corpo{
+    background-color: rgb(191, 216, 199);
+    color: black;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;  
+
+}
